@@ -1,0 +1,2798 @@
+[
+  {
+    "isoPais": 340,
+    "nombrePais": "Honduras",
+    "departamentos": [
+      {
+        "idDepartamento": 0,
+        "nombre": "ATLANTIDA",
+        "municipios": [
+          {
+            "id": 0,
+            "nombre": "LA CEIBA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 1,
+            "nombre": "EL PORVENIR",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 2,
+            "nombre": "ESPARTA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 3,
+            "nombre": "JUTIAPA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 4,
+            "nombre": "LA MASICA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 5,
+            "nombre": "SAN FRANCISCO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 6,
+            "nombre": "TELA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 7,
+            "nombre": "ARIZONA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          }
+        ]
+      },
+      {
+        "idDepartamento": 1,
+        "nombre": "COLON",
+        "municipios": [
+          {
+            "id": 0,
+            "nombre": "TRUJILLO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 1,
+            "nombre": "BALFATE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 2,
+            "nombre": "IRIONA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 3,
+            "nombre": "LIMON",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 4,
+            "nombre": "SABA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 5,
+            "nombre": "SANTA FE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 6,
+            "nombre": "SANTA ROSA AGUAN",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 7,
+            "nombre": "SONAGUERA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 8,
+            "nombre": "TOCOA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 9,
+            "nombre": "BONITO ORIENTAL",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          }
+        ]
+      },
+      {
+        "idDepartamento": 2,
+        "nombre": "COMAYAGUA",
+        "municipios": [
+          {
+            "id": 0,
+            "nombre": "COMAYAGUA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 1,
+            "nombre": "AJUTERIQUE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 2,
+            "nombre": "EL ROSARIO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 3,
+            "nombre": "ESQUIAS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 4,
+            "nombre": "HUMUYA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 5,
+            "nombre": "LA LIBERTAD",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 6,
+            "nombre": "LAMANI",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 7,
+            "nombre": "LA TRINIDAD",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 8,
+            "nombre": "LEJAMANI",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 9,
+            "nombre": "MEAMBAR",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 10,
+            "nombre": "MINAS DE ORO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 11,
+            "nombre": "OJOS DE AGUA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 12,
+            "nombre": "SAN JERONIMO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 13,
+            "nombre": "SAN JOSE DE COMAYAGUA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 14,
+            "nombre": "SAN JOSE DEL POTRERO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 15,
+            "nombre": "SAN LUIS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 16,
+            "nombre": "SAN SEBASTIAN",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 17,
+            "nombre": "SIGUATEPEQUE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 18,
+            "nombre": "VILLA DE SAN ANTONIO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 19,
+            "nombre": "LAS LAJAS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 20,
+            "nombre": "TAULABE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          }
+        ]
+      },
+      {
+        "idDepartamento": 3,
+        "nombre": "COPAN",
+        "municipios": [
+          {
+            "id": 0,
+            "nombre": "SANTA ROSA DE COPAN",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 1,
+            "nombre": "CABA\u00d1AS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 2,
+            "nombre": "CONCEPCION",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 3,
+            "nombre": "COPAN RUINAS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 4,
+            "nombre": "CORQUIN",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 5,
+            "nombre": "CUCUYAGUA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 6,
+            "nombre": "DOLORES",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 7,
+            "nombre": "DULCE NOMBRE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 8,
+            "nombre": "EL PARAISO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 9,
+            "nombre": "FLORIDA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 10,
+            "nombre": "LA JIGUA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 11,
+            "nombre": "LA UNION",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 12,
+            "nombre": "NUEVA ARCADIA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 13,
+            "nombre": "SAN AGUSTIN",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 14,
+            "nombre": "SAN ANTONIO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 15,
+            "nombre": "SAN JERONIMO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 16,
+            "nombre": "SAN JOSE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 17,
+            "nombre": "SAN JUAN DE OPOA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 18,
+            "nombre": "SAN NICOLAS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 19,
+            "nombre": "SAN PEDRO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 20,
+            "nombre": "SANTA RITA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 21,
+            "nombre": "TRINIDAD",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 22,
+            "nombre": "VERACRUZ",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          }
+        ]
+      },
+      {
+        "idDepartamento": 4,
+        "nombre": "CORTES",
+        "municipios": [
+          {
+            "id": 0,
+            "nombre": "SAN PEDRO SULA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 1,
+            "nombre": "CHOLOMA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 2,
+            "nombre": "OMOA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 3,
+            "nombre": "PIMIENTA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 4,
+            "nombre": "POTRERILLOS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 5,
+            "nombre": "PUERTO CORTES",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 6,
+            "nombre": "SAN ANTONIO DE CORTES",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 7,
+            "nombre": "SAN FRANCISCO DE YOJOA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 8,
+            "nombre": "SAN MANUEL",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 9,
+            "nombre": "SANTA CRUZ DE YOJOA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 10,
+            "nombre": "VILLANUEVA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 11,
+            "nombre": "LA LIMA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          }
+        ]
+      },
+      {
+        "idDepartamento": 5,
+        "nombre": "CHOLUTECA",
+        "municipios": [
+          {
+            "id": 0,
+            "nombre": "CHOLUTECA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 1,
+            "nombre": "APACILAGUA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 2,
+            "nombre": "CONCEPCION DE MARIA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 3,
+            "nombre": "DUYURE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 4,
+            "nombre": "EL CORPUS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 5,
+            "nombre": "EL TRIUNFO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 6,
+            "nombre": "MARCOVIA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 7,
+            "nombre": "MOROLICA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 8,
+            "nombre": "NAMASIGUE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 9,
+            "nombre": "OROCUINA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 10,
+            "nombre": "PESPIRE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 11,
+            "nombre": "SAN ANTONIO DE FLORES",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 12,
+            "nombre": "SAN ISIDRO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 13,
+            "nombre": "SAN JOSE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 14,
+            "nombre": "SAN MARCOS DE COLON",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 15,
+            "nombre": "SANTA ANA DE YUSGUARE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          }
+        ]
+      },
+      {
+        "idDepartamento": 6,
+        "nombre": "EL PARAISO",
+        "municipios": [
+          {
+            "id": 0,
+            "nombre": "YUSCARAN",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 1,
+            "nombre": "ALAUCA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 2,
+            "nombre": "DANLI",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 3,
+            "nombre": "EL PARAISO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 4,
+            "nombre": "GUINOPE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 5,
+            "nombre": "JACALEAPA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 6,
+            "nombre": "LIURE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 7,
+            "nombre": "MOROCELI",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 8,
+            "nombre": "OROPOLI",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 9,
+            "nombre": "POTRERILLOS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 10,
+            "nombre": "SAN ANTONIO DE FLORES",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 11,
+            "nombre": "SAN LUCAS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 12,
+            "nombre": "SAN MATIAS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 13,
+            "nombre": "SOLEDAD",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 14,
+            "nombre": "TEUPASENTI",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 15,
+            "nombre": "TEXIGUAT",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 16,
+            "nombre": "VADO ANCHO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 17,
+            "nombre": "YAUYUPE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 18,
+            "nombre": "TROJES",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          }
+        ]
+      },
+      {
+        "idDepartamento": 7,
+        "nombre": "FRANCISCO MORAZAN",
+        "municipios": [
+          {
+            "id": 0,
+            "nombre": "DISTRITO CENTRAL",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 1,
+            "nombre": "ALUBAREN",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 2,
+            "nombre": "CEDROS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 3,
+            "nombre": "CURAREN",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 4,
+            "nombre": "EL PORVENIR",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 5,
+            "nombre": "GUAIMACA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 6,
+            "nombre": "LA LIBERTAD",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 7,
+            "nombre": "LA VENTA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 8,
+            "nombre": "LEPATERIQUE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 9,
+            "nombre": "MARAITA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 10,
+            "nombre": "MARALE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 11,
+            "nombre": "NUEVA ARMENIA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 12,
+            "nombre": "OJOJONA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 13,
+            "nombre": "ORICA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 14,
+            "nombre": "REITOCA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 15,
+            "nombre": "SABANAGRANDE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 16,
+            "nombre": "SAN ANTONIO DE ORIENTE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 17,
+            "nombre": "SAN BUENAVENTURA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 18,
+            "nombre": "SAN IGNACIO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 19,
+            "nombre": "CANTARRANAS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 20,
+            "nombre": "SAN MIGUELITO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 21,
+            "nombre": "SANTA ANA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 22,
+            "nombre": "SANTA LUCIA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 23,
+            "nombre": "TALANGA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 24,
+            "nombre": "TATUMBLA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 25,
+            "nombre": "VALLE DE ANGELES",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 26,
+            "nombre": "VILLA SAN FRANCISCO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 27,
+            "nombre": "VALLECILLOS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          }
+        ]
+      },
+      {
+        "idDepartamento": 8,
+        "nombre": "GRACIAS A DIOS",
+        "municipios": [
+          {
+            "id": 0,
+            "nombre": "PUERTO LEMPIRA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 1,
+            "nombre": "BRUS LAGUNA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 2,
+            "nombre": "AHUAS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 3,
+            "nombre": "JUAN FRANCISCO BULNES",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 4,
+            "nombre": "VILLEDA MORALES",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 5,
+            "nombre": "WAMPUSIRPI",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          }
+        ]
+      },
+      {
+        "idDepartamento": 9,
+        "nombre": "INTIBUCA",
+        "municipios": [
+          {
+            "id": 0,
+            "nombre": "LA ESPERANZA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 1,
+            "nombre": "CAMASCA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 2,
+            "nombre": "COLOMONCAGUA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 3,
+            "nombre": "CONCEPCION",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 4,
+            "nombre": "DOLORES",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 5,
+            "nombre": "INTIBUCA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 6,
+            "nombre": "JESUS DE OTORO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 7,
+            "nombre": "MAGDALENA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 8,
+            "nombre": "MASAGUARA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 9,
+            "nombre": "SAN ANTONIO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 10,
+            "nombre": "SAN ISIDRO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 11,
+            "nombre": "SAN JUAN",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 12,
+            "nombre": "SAN MARCOS SIERRA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 13,
+            "nombre": "SAN MIGUELITO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 14,
+            "nombre": "SANTA LUCIA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 15,
+            "nombre": "YAMARANGUILA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 16,
+            "nombre": "SAN FRANCISCO DE OPALACA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          }
+        ]
+      },
+      {
+        "idDepartamento": 10,
+        "nombre": "ISLAS DE LA BAHIA",
+        "municipios": [
+          {
+            "id": 0,
+            "name": "ROATAN",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 1,
+            "name": "GUANAJA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 2,
+            "name": "JOSE SANTOS GUARDIOLA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 3,
+            "name": "UTILA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          }
+        ]
+      },
+      {
+        "idDepartamento": 11,
+        "nombre": "LA PAZ",
+        "municipios": [
+          {
+            "id": 0,
+            "nombre": "LA PAZ",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 1,
+            "nombre": "AGUANQUETERIQUE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 2,
+            "nombre": "CABA\u00d1AS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 3,
+            "nombre": "CANE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 4,
+            "nombre": "CHINACLA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 5,
+            "nombre": "GUAJIQUIRO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 6,
+            "nombre": "LAUTERIQUE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 7,
+            "nombre": "MARCALA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 8,
+            "nombre": "MERCEDES DE ORIENTE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 9,
+            "nombre": "OPATORO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 10,
+            "nombre": "SAN ANTONIO DEL NORTE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 11,
+            "nombre": "SAN JOSE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 12,
+            "nombre": "SAN JUAN",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 13,
+            "nombre": "SAN PEDRO DE TUTULE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 14,
+            "nombre": "SANTA ANA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 15,
+            "nombre": "SANTA ELENA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 16,
+            "nombre": "SANTA MARIA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 17,
+            "nombre": "SANTIAGO DE PURINGLA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 18,
+            "nombre": "YARULA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          }
+        ]
+      },
+      {
+        "idDepartamento": 12,
+        "nombre": "LEMPIRA",
+        "municipios": [
+          {
+            "id": 0,
+            "name": "GRACIAS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 1,
+            "name": "BELEN",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 2,
+            "name": "CANDELARIA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 3,
+            "name": "COLOLACA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 4,
+            "name": "ERANDIQUE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 5,
+            "name": "GUALCINCE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 6,
+            "name": "GUARITA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 7,
+            "name": "LA CAMPA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 8,
+            "name": "LA IGUALA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 9,
+            "name": "LAS FLORES",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 10,
+            "name": "LA UNION",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 11,
+            "name": "LA VIRTUD",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 12,
+            "name": "LEPAERA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 13,
+            "name": "MAPULACA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 14,
+            "name": "PIRAERA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 15,
+            "name": "SAN ANDRES",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 16,
+            "name": "SAN FRANCISCO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 17,
+            "name": "SAN JUAN GUARITA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 18,
+            "name": "SAN MANUEL COLOHETE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 19,
+            "name": "SAN RAFAEL",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 20,
+            "name": "SAN SEBASTIAN",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 21,
+            "name": "SANTA CRUZ",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 22,
+            "name": "TALGUA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 23,
+            "name": "TAMBLA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 24,
+            "name": "TOMALA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 25,
+            "name": "VALLADOLID",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 26,
+            "name": "VIRGINIA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 27,
+            "name": "SAN MARCOS DE CAIQUIN",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          }
+        ]
+      },
+      {
+        "idDepartamento": 13,
+        "nombre": "OCOTEPEQUE",
+        "municipios": [
+          {
+            "id": 0,
+            "nombre": "OCOTEPEQUE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 1,
+            "nombre": "BELEN GUALCHO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 2,
+            "nombre": "CONCEPCION",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 3,
+            "nombre": "DOLORES MERENDON",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 4,
+            "nombre": "FRATERNIDAD",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 5,
+            "nombre": "LA ENCARNACION",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 6,
+            "nombre": "LA LABOR",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 7,
+            "nombre": "LUCERNA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 8,
+            "nombre": "MERCEDES",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 9,
+            "nombre": "SAN FERNANDO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 10,
+            "nombre": "SAN FRANCISCO DEL VALLE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 11,
+            "nombre": "SAN JORGE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 12,
+            "nombre": "SAN MARCOS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 13,
+            "nombre": "SANTA FE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 14,
+            "nombre": "SENSENTI",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 15,
+            "nombre": "SINUAPA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          }
+        ]
+      },
+      {
+        "idDepartamento": 14,
+        "nombre": "OLANCHO",
+        "municipios": [
+          {
+            "id": 0,
+            "nombre": "JUTICALPA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 1,
+            "nombre": "CAMPAMENTO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 2,
+            "nombre": "CATACAMAS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 3,
+            "nombre": "CONCORDIA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 4,
+            "nombre": "DULCE NOMBRE DE CULMI",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 5,
+            "nombre": "EL ROSARIO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 6,
+            "nombre": "ESQUIPULAS DEL NORTE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 7,
+            "nombre": "GUALACO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 8,
+            "nombre": "GUARIZAMA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 9,
+            "nombre": "GUATA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 10,
+            "nombre": "GUAYAPE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 11,
+            "nombre": "JANO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 12,
+            "nombre": "LA UNION",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 13,
+            "nombre": "MANGULILE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 14,
+            "nombre": "MANTO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 15,
+            "nombre": "SALAMA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 16,
+            "nombre": "SAN ESTEBAN",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 17,
+            "nombre": "SAN FRANCISCO DE BECERRA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 18,
+            "nombre": "SAN FRANCISCO DE LA PAZ",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 19,
+            "nombre": "SANTA MARIA DEL REAL",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 20,
+            "nombre": "SILCA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 21,
+            "nombre": "YOCON",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 22,
+            "nombre": "PATUCA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          }
+        ]
+      },
+      {
+        "idDepartamento": 15,
+        "nombre": "SANTA BARBARA",
+        "municipios": [
+          {
+            "id": 0,
+            "nombre": "SANTA BARBARA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 1,
+            "nombre": "ARADA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 2,
+            "nombre": "ATIMA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 3,
+            "nombre": "AZACUALPA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 4,
+            "nombre": "CEGUACA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 5,
+            "nombre": "SAN JOSE DE COLINAS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 6,
+            "nombre": "CONCEPCION DEL NORTE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 7,
+            "nombre": "CONCEPCION DEL SUR",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 8,
+            "nombre": "CHINDA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 9,
+            "nombre": "EL NISPERO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 10,
+            "nombre": "GUALALA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 11,
+            "nombre": "ILAMA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 12,
+            "nombre": "MACUELIZO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 13,
+            "nombre": "NARANJITO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 14,
+            "nombre": "NUEVO CELILAC",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 15,
+            "nombre": "PETOA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 16,
+            "nombre": "PROTECCION",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 17,
+            "nombre": "QUIMISTAN",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 18,
+            "nombre": "SAN FRANCISCO DE OJUERA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 19,
+            "nombre": "SAN LUIS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 20,
+            "nombre": "SAN MARCOS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 21,
+            "nombre": "SAN NICOLAS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 22,
+            "nombre": "SAN PEDRO DE ZACAPA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 23,
+            "nombre": "SANTA RITA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 24,
+            "nombre": "SAN VICENTE CENTENARIO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 25,
+            "nombre": "TRINIDAD",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 26,
+            "nombre": "LAS VEGAS",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 27,
+            "nombre": "NUEVA FRONTERA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          }
+        ]
+      },
+      {
+        "idDepartamento": 16,
+        "nombre": "VALLE",
+        "municipios": [
+          {
+            "id": 0,
+            "nombre": "NACAOME",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 1,
+            "nombre": "ALIANZA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 2,
+            "nombre": "AMAPALA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 3,
+            "nombre": "ARAMECINA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 4,
+            "nombre": "CARIDAD",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 5,
+            "nombre": "GOASCORAN",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 6,
+            "nombre": "LANGUE",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 7,
+            "nombre": "SAN FRANCISCO DE CORAY",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 8,
+            "nombre": "SAN LORENZO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          }
+        ]
+      },
+      {
+        "idDepartamento": 17,
+        "nombre": "YORO",
+        "municipios": [
+          {
+            "id": 0,
+            "nombre": "YORO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 1,
+            "nombre": "ARENAL",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 2,
+            "nombre": "EL NEGRITO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 3,
+            "nombre": "EL PROGRESO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 4,
+            "nombre": "JOCON",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 5,
+            "nombre": "MORAZAN",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 6,
+            "nombre": "OLANCHITO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 7,
+            "nombre": "SANTA RITA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 8,
+            "nombre": "SULACO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 9,
+            "nombre": "VICTORIA",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          },
+          {
+            "id": 10,
+            "nombre": "YORITO",
+            "activo": true,
+            "situaciones": [],
+            "created_at": "2020-11-07",
+            "update_at": null,
+            "bloqueado": false
+          }
+        ]
+      }
+    ]
+  }
+]

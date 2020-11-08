@@ -1,0 +1,170 @@
+[
+  {
+    "isoPais": 340,
+    "nombrePais": "Honduras",
+    "departamentos": [
+      {
+        "id": 0,
+        "nombre": "ATLANTIDA",
+        "activo": false,
+        "situaciones": [],
+        "created_at": "2020-11-07",
+        "update_at": null,
+        "bloqueado": false
+      },
+      {
+        "id": 1,
+        "nombre": "COLON",
+        "activo": false,
+        "situaciones": [],
+        "created_at": "2020-11-07",
+        "update_at": null,
+        "bloqueado": false
+      },
+      {
+        "id": 2,
+        "nombre": "COMAYAGUA",
+        "activo": false,
+        "situaciones": [],
+        "created_at": "2020-11-07",
+        "update_at": null,
+        "bloqueado": false
+      },
+      {
+        "id": 3,
+        "nombre": "COPAN",
+        "activo": false,
+        "situaciones": [],
+        "created_at": "2020-11-07",
+        "update_at": null,
+        "bloqueado": false
+      },
+      {
+        "id": 4,
+        "nombre": "CORTES",
+        "activo": false,
+        "situaciones": [],
+        "created_at": "2020-11-07",
+        "update_at": null,
+        "bloqueado": false
+      },
+      {
+        "id": 5,
+        "nombre": "CHOLUTECA",
+        "activo": false,
+        "situaciones": [],
+        "created_at": "2020-11-07",
+        "update_at": null,
+        "bloqueado": false
+      },
+      {
+        "id": 6,
+        "nombre": "EL PARAISO",
+        "activo": false,
+        "situaciones": [],
+        "created_at": "2020-11-07",
+        "update_at": null,
+        "bloqueado": false
+      },
+      {
+        "id": 7,
+        "nombre": "FRANCISCO MORAZAN",
+        "activo": false,
+        "situaciones": [],
+        "created_at": "2020-11-07",
+        "update_at": null,
+        "bloqueado": false
+      },
+      {
+        "id": 8,
+        "nombre": "GRACIAS A DIOS",
+        "activo": false,
+        "situaciones": [],
+        "created_at": "2020-11-07",
+        "update_at": null,
+        "bloqueado": false
+      },
+      {
+        "id": 9,
+        "nombre": "INTIBUCA",
+        "activo": false,
+        "situaciones": [],
+        "created_at": "2020-11-07",
+        "update_at": null,
+        "bloqueado": false
+      },
+      {
+        "id": 10,
+        "nombre": "ISLAS DE LA BAHIA",
+        "activo": false,
+        "situaciones": [],
+        "created_at": "2020-11-07",
+        "update_at": null,
+        "bloqueado": false
+      },
+      {
+        "id": 11,
+        "nombre": "LA PAZ",
+        "activo": false,
+        "situaciones": [],
+        "created_at": "2020-11-07",
+        "update_at": null,
+        "bloqueado": false
+      },
+      {
+        "id": 12,
+        "nombre": "LEMPIRA",
+        "activo": false,
+        "situaciones": [],
+        "created_at": "2020-11-07",
+        "update_at": null,
+        "bloqueado": false
+      },
+      {
+        "id": 13,
+        "nombre": "OCOTEPEQUE",
+        "activo": false,
+        "situaciones": [],
+        "created_at": "2020-11-07",
+        "update_at": null,
+        "bloqueado": false
+      },
+      {
+        "id": 14,
+        "nombre": "OLANCHO",
+        "activo": false,
+        "situaciones": [],
+        "created_at": "2020-11-07",
+        "update_at": null,
+        "bloqueado": false
+      },
+      {
+        "id": 15,
+        "nombre": "SANTA BARBARA",
+        "activo": false,
+        "situaciones": [],
+        "created_at": "2020-11-07",
+        "update_at": null,
+        "bloqueado": false
+      },
+      {
+        "id": 16,
+        "nombre": "VALLE",
+        "activo": false,
+        "situaciones": [],
+        "created_at": "2020-11-07",
+        "update_at": null,
+        "bloqueado": false
+      },
+      {
+        "id": 17,
+        "nombre": "YORO",
+        "activo": false,
+        "situaciones": [],
+        "created_at": "2020-11-07",
+        "update_at": null,
+        "bloqueado": false
+      }
+    ]
+  }
+]

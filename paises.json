@@ -1,0 +1,14 @@
+[
+  {
+    "isoPais": 340,
+    "codigoTelefonico": 504,
+    "abreviacionPais": "HN",
+    "nombrePais": "Honduras",
+    "activo": true,
+    "situaciones": [],
+    "idiomas": [],
+    "created_at": "2020-11-07",
+    "update_at": null,
+    "bloqueado": false
+  }
+]
